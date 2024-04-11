@@ -1,0 +1,42 @@
+{
+    "ComicID": 77,
+    "Name": "Avengers: Back To Basics",
+    "Description": "ڕۆژگیرانێکی ماوەدرێژ ئەمریکای باکووری گرتۆتەوە، بەڵام ئەوە لە ڕاستیدا سوپای تاریکییە بەرەو سەرکەوتن دێن.",
+    "NumberOfIssues": 1,
+    "CoverImage": "K3WECo2eH4jszRN1ibVW3XIYrLVnYxVvbJww2jhg.png",
+    "WatchAge": "+18",
+    "IsEnded": 0,
+    "PublishDate": "2018",
+    "Rating": "-",
+    "Views": 25,
+    "Genres": [
+        "سەرکێشی",
+        "ئاکشن",
+        "کۆمیدی"
+    ],
+    "Issues": [
+        [
+            "hhizchGPg6B4qiKl2fuP8Wg5a4X5CFeBDEvv0Wwk.png",
+            "0ibYf2hkAfEYzQCswt8jaguuXh36shmBC6G0yGRc.jpg",
+            "wgDdzRMsNTwRObNAzHtBldecHXAFkXetYYDqvymQ.jpg",
+            "at2gOp4W11ADqFULvVzSMVBZzhAmTQ3kpdwjVnTA.jpg",
+            "sinL6x6S4UZLWLuRGDIpe5GMZ6ET2Ht6oYB34ivl.jpg",
+            "uUXCK9GFPNBl4QVzKejtQmkn8R3iBkJTj7cBG5E3.jpg",
+            "iPufTqn4Y5WNaZAVmcKdbFITzK6H28bCZyIklNni.jpg",
+            "kVDrFagpHKPurlO1xzBp4zQ8a7XEHzzfJTTbknBF.jpg",
+            "BLBTrOMjwY8ULbEXqabaassQvZjEvihoorX7rGr8.jpg",
+            "h9Xv9bdEIOhQhscaJBnxuWnugwZ2ofTTO8bZAGK9.jpg",
+            "qV0dUkjmKfjp0VHj9SSBOmQuAbtQJjSP2iMXR5Mi.jpg",
+            "c3W1DOQTG4eSAwz4pLUwAf312pn9lourbwYSB3iF.jpg",
+            "0BD5n32l5aWGIEu3XLmLt1ILuQ2i5sCaa45nguNX.jpg",
+            "FsxOcC43v271tw4LxLcuztAWLYuJeheB0avpV7ta.jpg",
+            "WYL0l1Mw8MVfCjaiuL267q5NPlG1yxsQAj1Ap1xO.jpg",
+            "TzDONeyppF1AcDJ3JvdVSAiAFMfDUQWkJHzoglcJ.jpg",
+            "lpAeeiQX1dEd80IHfFlPLIafgNxz26z7AeymxlwD.jpg",
+            "Y8iInp9hO22ioxgcbBcUJcBBv2LFb35tlg6IGAnf.jpg",
+            "UHCSNpr5Bz8UFj4rYk0jwhTB7B6WE37yMY1XXOnw.jpg",
+            "i3Pw9WBGUZTA7dq6xgNO16GWQ4QLtUI64Z61Hqrb.jpg",
+            "MOGqItYC55CUubCdVpzbtGVZBnlmsuM7LILrNoov.jpg"
+        ]
+    ]
+}
