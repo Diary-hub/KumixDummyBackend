@@ -8,10 +8,10 @@ headers = {
     'Content-Type': 'application/json'
 }
 
-auth = aiohttp.BasicAuth('DocXy', 'Dihack@2002')
+auth = aiohttp.BasicAuth()
 
 
-uri = "mongodb+srv://docxy:dihack22@firstcluster.ysswriw.mongodb.net/?retryWrites=true&w=majority"
+uri = ""
 
 # Create a new client and connect to the server
 client = MongoClient(uri, server_api=ServerApi('1'))
